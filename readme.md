@@ -33,7 +33,7 @@ to setup this project, run the following commands on your terminal
 5. to run the project `npm start`
 
 6. using postman navigate to this default url of `http://localhost:3000/api/v1/email` to start testing
-7. create a body with fields name and email address of person requesting email. NB: POST REQEUST
+7. create a body with fields name and email address of person requesting email. NB: POST REQUEST
 8. check email inbox
 ```
 
