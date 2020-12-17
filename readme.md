@@ -23,7 +23,7 @@ to setup this project, run the following commands on your terminal
 2. Get your gmail details ie email address and password 
 2.1 Navigate to .env file
 2.2 On "EMAIL_USERNAME" variable equate it to your gmail email address
-2.2 On "EMAIL_PASSWORD" variable equate it to your gmail email address **password**
+2.3 On "EMAIL_PASSWORD" variable equate it to your gmail email address **password**
 
 
 
